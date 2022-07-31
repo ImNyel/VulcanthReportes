@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VulcanthReports">
+    <output-path>$PROJECT_DIR$/../test/plugins</output-path>
+    <root id="archive" name="VulcanthReports.jar">
+      <element id="module-output" name="VulcanthReports - Copia" />
+    </root>
+  </artifact>
+</component>
